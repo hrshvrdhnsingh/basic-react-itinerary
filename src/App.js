@@ -20,7 +20,7 @@ function App(){
   if(tours.length===0){
     return (
       <div className="refresh">
-        <img src="images/snorlax.gif" alt="" className="loader"></img>
+        <img src={process.env.PUBLIC_URL + '/images/snorlax.gif'} alt="loader gif" className="loader"></img>
         <h2 className="header">No Tours Left</h2>
         <button className="btn-refresh" onClick={resetPage}>Refresh Page</button>
       </div>
