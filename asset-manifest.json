@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hrshvrdhnsingh/basic-react-itinerary/static/css/main.0e05a359.css",
-    "main.js": "/hrshvrdhnsingh/basic-react-itinerary/static/js/main.1f8763b4.js",
-    "static/js/787.bd741a30.chunk.js": "/hrshvrdhnsingh/basic-react-itinerary/static/js/787.bd741a30.chunk.js",
-    "index.html": "/hrshvrdhnsingh/basic-react-itinerary/index.html",
-    "main.0e05a359.css.map": "/hrshvrdhnsingh/basic-react-itinerary/static/css/main.0e05a359.css.map",
-    "main.1f8763b4.js.map": "/hrshvrdhnsingh/basic-react-itinerary/static/js/main.1f8763b4.js.map",
-    "787.bd741a30.chunk.js.map": "/hrshvrdhnsingh/basic-react-itinerary/static/js/787.bd741a30.chunk.js.map"
+    "main.css": "/basic-react-itinerary/static/css/main.0e05a359.css",
+    "main.js": "/basic-react-itinerary/static/js/main.f01203cc.js",
+    "static/js/787.bd741a30.chunk.js": "/basic-react-itinerary/static/js/787.bd741a30.chunk.js",
+    "index.html": "/basic-react-itinerary/index.html",
+    "main.0e05a359.css.map": "/basic-react-itinerary/static/css/main.0e05a359.css.map",
+    "main.f01203cc.js.map": "/basic-react-itinerary/static/js/main.f01203cc.js.map",
+    "787.bd741a30.chunk.js.map": "/basic-react-itinerary/static/js/787.bd741a30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e05a359.css",
-    "static/js/main.1f8763b4.js"
+    "static/js/main.f01203cc.js"
   ]
 }
