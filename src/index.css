@@ -114,3 +114,10 @@ code {
   }
   .btn-refresh{ width: 60%; border-radius: 7px; margin-top: 2%;}
 }
+@media screen and (min-width: 1400px){
+  .description{
+    font-size:large;
+  }
+  .cards{ width: 100vw;}
+  .card{ width: 31%; border-radius: 12px;}
+}
