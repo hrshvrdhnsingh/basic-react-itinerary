@@ -12,7 +12,7 @@ run <npm install gh-pages --save-dev>
 
 push all the necessary files
 
-add <"homepage": "https://hrshvrdhnsingh.github.io/repo-name",> in the package.json before "name"
+add <"homepage": "https: //<user-name>.github. io/repo-name",> in the package.json before "name"
 
 add <"predeploy": "npm run build",
     "deploy": "gh-pages -d build",>
