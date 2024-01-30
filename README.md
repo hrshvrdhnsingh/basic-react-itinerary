@@ -8,14 +8,14 @@ https://hrshvrdhnsingh.github.io/basic-react-itinerary/
 
 # To run a react project on Pages
 
-run <npm install gh-pages --save-dev>
+Run <npm install gh-pages --save-dev> in the terminal.
 
-push all the necessary files
+Add <"homepage": "https: //{user-name}.github. io/{repo-name}",> in the package.json before "name".
 
-add <"homepage": "https: //<user-name>.github. io/repo-name",> in the package.json before "name"
+Add <"predeploy": "npm run build", "deploy": "gh-pages -d build",>in the scripts part of package.json.
 
-add <"predeploy": "npm run build",
-    "deploy": "gh-pages -d build",>
-    in the scripts part of package.json
+Run <git remote add origin https://github.com/{username}/{repo-name}.git> in the terminal.
+
+Run <npm run deploy> in the terminal.
     
-Now form the pages part of Github, deploy your site from the "gh-pages" branch
+Now from the pages part of Github, deploy your site from the "gh-pages" branch.
